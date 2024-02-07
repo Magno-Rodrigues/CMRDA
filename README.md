@@ -48,10 +48,10 @@ Currently, my focus is on:
   </tr>
   <tr>
   <td>
-  <div display="inline">
+  
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  </div>
+  
   </td>
     <td>Data 2</td>
     <td>Data 3</td>
