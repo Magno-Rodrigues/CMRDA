@@ -17,4 +17,4 @@ Currently, my focus is on:
 </div><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-<img width="50" height="50" src="https://icons8.com/icon/70667/power-bi"/>
+<img width="50" height="50" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg)https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
