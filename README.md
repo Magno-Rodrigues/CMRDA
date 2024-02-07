@@ -37,12 +37,7 @@ Currently, my focus is on:
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Table</title>
+
   <style>
     table {
       border-collapse: collapse;
@@ -68,10 +63,12 @@ Currently, my focus is on:
     <th>Column 4</th>
   </tr>
   <tr>
-    <td><div display="inline">
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-</div></td>
+  <td>
+  <div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  </div>
+  </td>
     <td>Data 2</td>
     <td>Data 3</td>
     <td>Data 4</td>
