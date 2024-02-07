@@ -5,7 +5,7 @@ Currently, my focus is on:
 
 <div display="inline">
 <div aling ="center">
-<b>Programming Languages.</b>
+<b>|Programming Languages|</b>
 </div><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -13,8 +13,14 @@ Currently, my focus is on:
 <hr>
 <div display="inline">
 <div aling ="center">
-<b>Data Base.</b>
+<b>|Data Base|</b>
 </div><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+<hr>
+<div display="inline">
+<div aling ="center">
+<b>|Visualization|</b>
+</div><br>
 <img width="70" height="50" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
+</div>
