@@ -22,5 +22,5 @@ Currently, my focus is on:
 <div aling ="center">
 <b>|Visualization|</b>
 </div><br>
-<img width="100" height="70" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
+<img width="100" height="50" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
 </div>
