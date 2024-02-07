@@ -52,8 +52,6 @@ Currently, my focus is on:
       background-color: #f2f2f2;
     }
   </style>
-</head>
-<body>
 
 <table>
   <tr>
@@ -74,6 +72,3 @@ Currently, my focus is on:
     <td>Data 4</td>
   </tr>
 </table>
-
-</body>
-</html>
