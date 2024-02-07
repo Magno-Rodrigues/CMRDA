@@ -9,7 +9,7 @@ Currently, my focus is on:
 </div><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-</div>
+</div><br>
 
 <div display="inline">
 <div aling ="center">
