@@ -15,12 +15,12 @@ Currently, my focus is on:
 <div aling ="center">
 <b>|Data Base|</b>
 </div><br>
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width="75" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <hr>
 <div display="inline">
 <div aling ="center">
 <b>|Visualization|</b>
 </div><br>
-<img width="70" height="50" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
+<img width="75" height="50" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
 </div>
