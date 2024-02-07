@@ -6,7 +6,7 @@ Currently, my focus is on:
   <tr>
     <th>Programming Languages</th>
     <th>Machine Learning</th>
-    <th>Data Base</th>
+    <th>DataBase</th>
     <th>Visualization</th>
   </tr>
   <tr>
