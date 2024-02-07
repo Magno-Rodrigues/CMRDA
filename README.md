@@ -62,13 +62,16 @@ Currently, my focus is on:
 
 <table>
   <tr>
-    <th>Column 1</th>
+    <th>Programming Languages</th>
     <th>Column 2</th>
     <th>Column 3</th>
     <th>Column 4</th>
   </tr>
   <tr>
-    <td>Data 1</td>
+    <td><div display="inline">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div></td>
     <td>Data 2</td>
     <td>Data 3</td>
     <td>Data 4</td>
