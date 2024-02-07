@@ -11,6 +11,15 @@ Currently, my focus is on:
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div><br>
 <hr>
+
+<div display="inline">
+<div aling ="center">
+<b>|Machine Learning|</b>
+</div><br>
+<img width="93" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+</div>
+<hr>
+
 <div display="inline">
 <div aling ="center">
 <b>|Data Base|</b>
@@ -18,6 +27,7 @@ Currently, my focus is on:
 <img width="100" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <hr>
+
 <div display="inline">
 <div aling ="center">
 <b>|Visualization|</b>
