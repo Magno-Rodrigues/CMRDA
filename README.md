@@ -34,3 +34,46 @@ Currently, my focus is on:
 </div><br>
 <img width="93" height="60" src="https://www.advancedexcel.net/wp-content/uploads/2023/05/power-bi.jpg" />
 </div>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+    <th>Column 4</th>
+  </tr>
+  <tr>
+    <td>Data 1</td>
+    <td>Data 2</td>
+    <td>Data 3</td>
+    <td>Data 4</td>
+  </tr>
+</table>
+
+</body>
+</html>
