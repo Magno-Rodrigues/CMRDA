@@ -3,5 +3,5 @@ I am an experienced IT specialist who successfully transitioned to data science.
 
 Currently, my focus is on:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img width "50" heigh "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
